@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strata Test</title>
+    <link>/index.xml</link>
+    <description>Recent content on Strata Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 May 2017 14:53:02 -0500</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Wed, 03 May 2017 14:53:02 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;this is about page, wow!!!!&lt;br /&gt;
+fv ggg&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>/post/third/</link>
+      <pubDate>Wed, 03 May 2017 14:12:42 -0500</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>/post/second/</link>
+      <pubDate>Wed, 03 May 2017 14:12:37 -0500</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>/post/first/</link>
+      <pubDate>Wed, 03 May 2017 14:12:21 -0500</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>&lt;p&gt;this is firsst    ffff g&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
