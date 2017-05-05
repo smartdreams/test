@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://smartspikes.netlify.com/about/</loc>
     <lastmod>2017-05-03T14:53:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/third/</loc>
+    <loc>http://smartspikes.netlify.com/post/third/</loc>
     <lastmod>2017-05-03T14:12:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/second/</loc>
+    <loc>http://smartspikes.netlify.com/post/second/</loc>
     <lastmod>2017-05-03T14:12:37-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/first/</loc>
+    <loc>http://smartspikes.netlify.com/post/first/</loc>
     <lastmod>2017-05-03T14:12:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://smartspikes.netlify.com/post/</loc>
     <lastmod>2017-05-03T14:12:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://smartspikes.netlify.com/</loc>
     <lastmod>2017-05-03T14:53:02-05:00</lastmod>
     <priority>0</priority>
   </url>
